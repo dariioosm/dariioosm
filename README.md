@@ -9,6 +9,6 @@ Tecnologías con las que he trabajado
 - Frontend ·  Bootstrap.
 - Control de versiones y despliegue · Git, GitHub y Docker Compose.
 
-¿Qué busco?
+### ¿Qué busco?
 
 Busco prácticas y oportunidades junior en Asturias, especialmente en Avilés y Gijón. Me gustaría seguir aprendiendo en un equipo de desarrollo backend, software industrial o IoT. También me interesa explorar cómo se puede aplicar la IA al análisis de datos de sensores.
